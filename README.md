@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahadeva Gowda</h1>
-<h3 align="center">A passionate App Developer From in India</h3>
+<h3 align="center">A passionate App Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahadevamk&label=Profile%20views&color=0e75b6&style=flat" alt="sahadevamk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahadevamk" alt="sahadevamk" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++ and Flutter**
+- 🌱 I’m currently learning Data Structures in **C++ and Flutter**
 
 - 👯 I’m looking to collaborate on **App development Companies**
 
@@ -20,7 +20,7 @@
 <a href="https://instagram.com/nasa.0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasa.0222" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nas tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nas tech" height="30" width="40" /></a>
   <a href="https://facebook.com/c/sahadeva gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahadeva gowda" height="30" width="40" /></a>
-  <a href="https://www.linkedIn.com/c/Sahadeva MK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="sahadeva gowda" height="30" width="40" /></a>
+  <a href="https://linkedIn.com/c/Sahadeva MK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="Sahadeva MK" height="30" width="40" /></a>
   
 </p>
 
