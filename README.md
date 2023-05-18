@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [richengineer](richengineer.in)
 
-- 🌱 I’m currently learning **Data structures in Cpp and Flutter**
+- 🌱 I’m currently learning **Data structures in python and Flutter**
 
 - 👯 I’m looking to collaborate on **App Development Companies**
 
